@@ -3,7 +3,7 @@
 #### https://github.com/evan-losier/DATA601HW4  
 
 
-#### Regex  
+### Regex  
 
 Regex was used for data cleaning by detecting all postal code formats  
 and grouping standardizing them to contain only capital letters and  
@@ -17,7 +17,7 @@ names and addresses, but I was unable to spot information that needed
 to be removed.  
 
 
-#### Methodology  
+### Methodology  
 
 Data was imported, cleaned, processed, and visualized using a variety  
 of python libraries and methods commonly used in data analytics.  
@@ -25,7 +25,7 @@ Pandas was used for the majority of data handling, regex was used for
 cleaning, and Seaborn was used to create visualizations.  
 
 
-#### Challenges Faced  
+### Challenges Faced  
 
 The main challenge faced was in the use of regex for cleaning data.  
 Initially when the data was imported and numerical columns were being  

@@ -3,7 +3,7 @@
 #### https://github.com/evan-losier/DATA601HW4  
 
 
-#### Key Trends  
+### Key Trends  
 
 One of the key trends observed was that for nearly all metrics in the  
 dataset, the mean value for energy use or greenhouse gas emissions was  
@@ -18,7 +18,7 @@ considered outliers in total greenhouse gas emissions, which is
 a large percentage considering outliers are often discarded.  
 
 
-#### Seasonal and Property Type Variations  
+### Seasonal and Property Type Variations  
 
 Overall energy use intensity varied from year to year, with the most  
 noticeable change coming from a drop in energy use intensity between  
@@ -30,7 +30,7 @@ and might require more focus or attention when considering which
 types of locations have the greatest energy impact.  
 
 
-#### Recommendations for Improving Energy Efficiency and Reducing Emissions  
+### Recommendations for Improving Energy Efficiency and Reducing Emissions  
 
 Given the observation that the Stoney Transit Facility emits the  
 most greenhouse gases of any building by a large margin, reducing  
